@@ -1,7 +1,7 @@
 const target = document.getElementById('target');
 let yes = document.getElementById('yes')
 yes.addEventListener('click',()=> {
-alert("Love you too jaan mera bachcha");
+alert("Love you too jaan mera bachcha🙈😘😘💕");
 })
 
 function moveTarget(){
